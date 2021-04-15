@@ -22,7 +22,7 @@ Cualquier duda con los proyectos que he realizado o alguna colaboración, porfav
 >
 <p align="center">
   <a href="https://www.facebook.com/Gustavo.Calzada1710/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Gustavo_Calzada-4267b2?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/gustavo_calzada/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-gustavo_calzada-e43182?style=for-the-badge&logo=Instagram&logoColor=white%22"></a>
+  <a href="https://www.instagram.com/gustavo_calzada/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-gustavo_calzada-e43182?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gustavo-rodriguez-calzada-9a0720196/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-gustavo_rodriguez_calzada-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <!--   <a href="https://twitter.com/vanccipm" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@vanccipm-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white"></a> -->
   
