@@ -15,7 +15,7 @@ Mis contribuciones han sido un tanto activas este año:
 >![Status Github Gustavo](https://github-readme-stats.vercel.app/api?username=GustavoR0dr1gu3z&count_private=true&theme=dracula)
 
 >
->Cualquier duda con los proyectos que he realizado o alguna colaboración, porfavor comunicarse conmigo a las siguientes redes sociales 🔥
+Cualquier duda con los proyectos que he realizado o alguna colaboración, porfavor comunicarse conmigo a las siguientes redes sociales 🔥
 >
 
 <!--
