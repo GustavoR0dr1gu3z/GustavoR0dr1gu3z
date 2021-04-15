@@ -18,7 +18,7 @@ Este es mi estatus en Github :octocat:
 >![Status Github Gustavo](https://github-readme-stats.vercel.app/api?username=GustavoR0dr1gu3z&count_private=true&theme=dracula)
 
 >
-Cualquier duda con los proyectos que he realizado o alguna colaboración, porfavor comunicarse conmigo a las siguientes redes sociales 🔥
+Cualquier duda con los proyectos que he realizado o alguna colaboración, porfavor comunicarse conmigo a mis redes sociales 🤤🔥
 >
 <p align="center">
   <a href="https://www.facebook.com/Gustavo.Calzada1710/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Gustavo_Calzada-4267b2?style=for-the-badge&logo=Facebook&logoColor=white"></a>
@@ -33,10 +33,11 @@ Cualquier duda con los proyectos que he realizado o alguna colaboración, porfav
  >  <a href="http://gustavocalzada.me/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-gustavocalzada.me-red?style=for-the-badge&logo=web&logoColor=withe"></a>
  >  
  >
- >Así como enviarme un mensaje directo:
+ >Así como enviarme un mensaje al correo siguiente:
  >
  ><a href="mailto:gustavo.soader.cx@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-gustavo.soader.cx@gmail.com-red?style=for-the-badge&logo=web&logoColor=withe"></a>
- 
+
+
 </p>
 
 
