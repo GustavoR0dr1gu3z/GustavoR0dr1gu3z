@@ -6,6 +6,8 @@ I'm [GustavoR0dr1gu3z](http://gustavocalzada.me/) :sunglasses:
 > 
 > UAEMex Zumpango :octocat:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoR0dr1gu3z&langs_count=9&layout=compact&hide=Hack)
+
 
 <!--
 **GustavoR0dr1gu3z/GustavoR0dr1gu3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
