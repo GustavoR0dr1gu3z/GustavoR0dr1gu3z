@@ -33,7 +33,8 @@ Cualquier duda con los proyectos que he realizado o alguna colaboración, porfav
  >  <a href="http://gustavocalzada.me/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-gustavocalzada.me-red?style=for-the-badge&logo=web&logoColor=withe"></a>
  >  
  >
- >Así como enviarme un mensaje al correo siguiente:
+ >Así como enviarme un correo electrónico para más información. :fire:
+ >Si está en un dispositivo móvil, sólo presione el boton.:
  >
  ><a href="mailto:gustavo.soader.cx@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-gustavo.soader.cx@gmail.com-red?style=for-the-badge&logo=web&logoColor=withe"></a>
 
