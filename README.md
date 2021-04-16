@@ -40,10 +40,3 @@ Cualquier duda con los proyectos que he realizado o alguna colaboración, porfav
 
 </p>
 
-
-<!--
-**GustavoR0dr1gu3z/GustavoR0dr1gu3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
