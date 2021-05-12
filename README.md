@@ -1,7 +1,7 @@
 ### Hola! 👋
 Soy [GustavoR0dr1gu3z](http://gustavocalzada.me/) :sunglasses:
 > 
-> Estudiante de Ingeniería en Computación :computer: 🔥
+> Estudiante de Ingeniería en Computación :computer: 💻🔥 
 > 
 > 
 > UAEMex Zumpango :octocat:
