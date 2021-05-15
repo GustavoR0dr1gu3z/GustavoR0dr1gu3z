@@ -4,7 +4,7 @@ Soy [GustavoR0dr1gu3z](http://gustavocalzada.me/) :sunglasses:
 > Estudiante de Ingeniería en Computación 💻🔥 
 > 
 > 
-> UAEMex Zumpango :octocat:
+> UAEMex Zumpango 🐝
 > 
 >Actualmente me estoy enfocando al desarrollo web, estoy aprendiendo día con día para obtener más conocimiento y aplicarlo en la vida cotidiana.
 >Soy más hábil en el uso del lenguaje de programación Python, y se me facilita el desarrollar páginas web con dicho lenguaje. 🐍
