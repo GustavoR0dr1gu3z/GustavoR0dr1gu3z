@@ -9,7 +9,7 @@ Soy [GustavoR0dr1gu3z](http://gustavocalzada.me/) :sunglasses:
 >Actualmente me estoy enfocando al desarrollo web, estoy aprendiendo día con día para obtener más conocimiento y aplicarlo en la vida cotidiana.
 >Soy más hábil en el uso del lenguaje de programación Python, y se me facilita el desarrollar páginas web con dicho lenguaje. 🐍
 >
-Los lenguajes que más he utilizado son:
+Los lenguajes que más uso:
 >
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoR0dr1gu3z&langs_count=9&layout=compact&hide=Hack&theme=dracula)
 
