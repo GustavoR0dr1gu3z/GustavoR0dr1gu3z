@@ -29,9 +29,7 @@ Cualquier duda con los proyectos que he realizado o alguna colaboración, porfav
   <a href="https://www.youtube.com/channel/UC6jTSoykQbaNwTI5VlEptvw/videos" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-gustavo_rodriguez_calzada-red?style=for-the-badge&logo=youtube&logoColor=withe"></a>
 
  
- >O bien podría visitar mi página web, donde regularmente muestro algunos de mis mejores proyectos 
- >
-
+ >O bien podría visitar mi página web, donde regularmente muestro
  >  
  >
  >Así como enviarme un correo electrónico para más información. :fire:
