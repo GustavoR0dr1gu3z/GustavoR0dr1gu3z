@@ -4,7 +4,7 @@ Soy [GustavoR0dr1gu3z](https://gustavor0dr1gu3z.github.io/) :sunglasses:
 > Estudiante de Ingeniería en Computación 💻🔥 
 > 
 > 
-> UAEMex Zumpango 🐝
+> UAEMex Zumpango 🐝 
 > 
 >Actualmente me estoy enfocando al desarrollo web, estoy aprendiendo día con día para obtener más conocimiento y aplicarlo en la vida cotidiana.
 >Soy más hábil en el uso del lenguaje de programación Python, y se me facilita el desarrollar páginas web con dicho lenguaje. 🐍
@@ -14,7 +14,7 @@ Los lenguajes que más uso:
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoR0dr1gu3z&langs_count=9&layout=compact&hide=Hack&theme=dracula)
 
 
-Estatus en Github :octocat:
+Estatus en Github: :octocat:
 >
 >![Status Github Gustavo](https://github-readme-stats.vercel.app/api?username=GustavoR0dr1gu3z&count_private=true&theme=dracula)
 
