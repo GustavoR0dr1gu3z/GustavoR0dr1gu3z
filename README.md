@@ -14,8 +14,9 @@ Soy [GustavoR0dr1gu3z](https://gustavor0dr1gu3z.github.io/) :sunglasses:
 Los lenguajes que más uso:
 >
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoR0dr1gu3z&langs_count=9&layout=compact&hide=Hack&theme=dracula)
-
-
+>
+>
+>
 Estatus en Github: :octocat:
 >
 >![Status Github Gustavo](https://github-readme-stats.vercel.app/api?username=GustavoR0dr1gu3z&count_private=true&theme=dracula)
