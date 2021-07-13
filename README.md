@@ -20,8 +20,8 @@ Los lenguajes que más uso:
 Estatus en Github: :octocat:
 >
 >![Status Github Gustavo](https://github-readme-stats.vercel.app/api?username=GustavoR0dr1gu3z&count_private=true&theme=dracula)
-
-
+>
+>
 Mira mis contribuciones del año, que están siendo devoradas por el juego de la serpiente 🐍🎮
 >
 >![snake gif](https://github.com/GustavoR0dr1gu3z/GustavoR0dr1gu3z/blob/output/github-contribution-grid-snake.svg)
