@@ -25,7 +25,6 @@ Estatus en Github: :octocat:
 >
 Mira mis contribuciones del año, que están siendo devoradas por el juego de la serpiente 🐍🎮
 
-
 >![snake gif](https://github.com/GustavoR0dr1gu3z/GustavoR0dr1gu3z/blob/output/github-contribution-grid-snake.svg)
 
 >
