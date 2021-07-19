@@ -39,6 +39,7 @@ Cualquier duda con los proyectos que he realizado o alguna colaboración, porfav
  
 
  >
+ >
  >Así como enviarme un correo electrónico para más información. :fire:
  >
  >Si está en un dispositivo móvil, sólo presione el boton.:
