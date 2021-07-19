@@ -45,7 +45,8 @@ Cualquier duda con los proyectos que he realizado o alguna colaboración, porfav
  >Si está en un dispositivo móvil, sólo presione el boton.:
  >
  ><a href="mailto:gustavo.soader.cx@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-gustavo.soader.cx@gmail.com-red?style=for-the-badge&logo=web&logoColor=withe"></a>
-
+>
+>
 
 </p>
 
