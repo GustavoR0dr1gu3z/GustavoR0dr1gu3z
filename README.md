@@ -3,7 +3,7 @@ Soy [GustavoR0dr1gu3z](https://gustavor0dr1gu3z.github.io/) :sunglasses:
 > 
 > Estudiante de Ingeniería en Computación 💻🔥 
 > 
-> Web
+> Web Developer ⌛
 > 
 > 
 > UAEMex Zumpango 🐝 
