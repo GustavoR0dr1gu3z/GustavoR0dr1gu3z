@@ -5,9 +5,9 @@ Soy [GustavoR0dr1gu3z](https://gustavor0dr1gu3z.github.io/) :sunglasses:
 > 
 > Web Developer ⌛
 >
->
 > UAEMex Zumpango 🐝 
-> 
+>
+>
 >Actualmente me estoy enfocando al desarrollo web, estoy aprendiendo día con día para obtener más conocimiento y aplicarlo en la vida cotidiana.
 >Soy más hábil en el uso del lenguaje de programación Python. 🐍
 
