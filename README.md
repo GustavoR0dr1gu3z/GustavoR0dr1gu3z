@@ -29,6 +29,7 @@ Mira mis contribuciones del año, que están siendo devoradas por el juego de la
 >![snake gif](https://github.com/GustavoR0dr1gu3z/GustavoR0dr1gu3z/blob/output/github-contribution-grid-snake.svg)
 
 >
+>
 Cualquier duda con los proyectos que he realizado o alguna colaboración, porfavor comunicarse conmigo a mis redes sociales 🤤🔥
 >
 <p align="center">
