@@ -1,11 +1,9 @@
 ### ¡Hola! 👋😎
 Soy [GustavoR0dr1gu3z](https://gustavor0dr1gu3z.github.io/) :sunglasses:
 > 
-> Pasante de Ingeniería en Computación 💻🔥 
+> Ingeniero en Computación 💻🔥 
 > 
 > Web Developer ⌛
->
-> UAEMex Zumpango 🐝 
 >
 >
 >Actualmente me estoy enfocando al desarrollo web, estoy aprendiendo día con día para obtener más conocimiento y aplicarlo en la vida cotidiana.
